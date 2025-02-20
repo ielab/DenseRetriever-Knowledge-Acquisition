@@ -25,11 +25,7 @@ This repository provides a pipeline for evaluating and interpreting dense retrie
 # Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-
-
-
-
-
+```bash
 
 # Install dependencies
 pip install -r environment.txt
