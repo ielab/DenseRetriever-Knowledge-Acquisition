@@ -12,7 +12,6 @@ This repository provides a pipeline for evaluating and interpreting dense retrie
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
   - [Knowledge Consistency Pipeline](#knowledge-consistency-pipeline)
     - [1. Precompute Embeddings](#1-precompute-embeddings)
@@ -26,18 +25,6 @@ This repository provides a pipeline for evaluating and interpreting dense retrie
 
 ---
 
-## Installation
-
-Create a virtual environment (optional but recommended) and install the required packages. See `environment.txt` for the dependency list.
-
-    # Create and activate a virtual environment (optional)
-    python -m venv venv
-    source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-    # Install dependencies
-    pip install -r environment.txt
-
----
 
 ## Usage
 
