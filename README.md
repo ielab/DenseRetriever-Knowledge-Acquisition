@@ -133,7 +133,7 @@ This command creates a PDF file (e.g., under a `graphs` folder) showing the acti
 
 ## Environment
 
-Below is the content of `environment.txt`. Install these packages to ensure compatibility:
+Here are the required libraries. 
 
     # environment.txt
     torch>=1.10.0
